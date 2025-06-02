@@ -27,7 +27,7 @@ dataset_2 link: https://works.do/F2Ij1Ky
 
 2. Clone this repository:
    ```
-   git clone https://https://github.com/o-kki/ros2mem.git
+   git clone https://github.com/o-kki/ros2mem.git
    ```
 
 3. Move the `ros2mem.py` file to your Volatility3 plugins directory:
